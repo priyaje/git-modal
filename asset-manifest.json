@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-modal/static/css/main.e6c13ad2.css",
+    "main.js": "/git-modal/static/js/main.f38de803.js",
+    "index.html": "/git-modal/index.html",
+    "main.e6c13ad2.css.map": "/git-modal/static/css/main.e6c13ad2.css.map",
+    "main.f38de803.js.map": "/git-modal/static/js/main.f38de803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f38de803.js"
+  ]
+}
